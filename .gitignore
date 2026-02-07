@@ -1,0 +1,19 @@
+# virtual env
+.venv/
+
+# python cache
+__pycache__/
+*.pyc
+
+# jupyter
+.ipynb_checkpoints/
+
+# outputs / scraped data
+export/
+data/
+
+# vscode
+.vscode/
+
+# secrets
+.env
