@@ -1,3 +1,3 @@
-2026/02/17-18:54:54.088 3570a8 Reusing MANIFEST /home/jumpei_private/Github/kumaneko-web-scraping/check_reservation/Default/Local Storage/leveldb/MANIFEST-000001
-2026/02/17-18:54:54.090 3570a8 Recovering log #3
-2026/02/17-18:54:54.090 3570a8 Reusing old log /home/jumpei_private/Github/kumaneko-web-scraping/check_reservation/Default/Local Storage/leveldb/000003.log 
+2026/02/17-21:15:14.713 368dfa Reusing MANIFEST /home/jumpei_private/Github/kumaneko-web-scraping/check_reservation/Default/Local Storage/leveldb/MANIFEST-000001
+2026/02/17-21:15:14.714 368dfa Recovering log #3
+2026/02/17-21:15:14.715 368dfa Reusing old log /home/jumpei_private/Github/kumaneko-web-scraping/check_reservation/Default/Local Storage/leveldb/000003.log 
